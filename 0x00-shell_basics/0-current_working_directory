@@ -1,6 +1,6 @@
 #!bin/bash
 pwd
-bash 0-current_working_directory
+bash pwd 
 
 
 
